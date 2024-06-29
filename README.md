@@ -20,7 +20,7 @@
 
   - Tenho 33 anos, sou morador do Rio de Janeiro. Apesar de estar ligado a tecnologia desde a infância, apenas recentemente comecei a me interessar por desenvolvimento e, desde então, tenho procurado aprender e me aprimorar cada dia mais nessa área que, apesar de desafiadora, tem sido incrível.
 
-  - Gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e séries! Creio que interesses pessoais nos ajudam a tem uma percepção mais apurada das coisas e para a resolução de problemas.
+  - Gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e séries! Creio que interesses pessoais nos ajudam a ter uma percepção mais apurada das coisas e para a resolução de problemas.
 </details>
 
 <!-- Links -->
