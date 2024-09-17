@@ -32,7 +32,9 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Calculadora de IMC](https://github.com/marcelomdsp/calculo-de-imc-com-react)
+
+- [Calculadora de IMC](https://github.com/marcelomdsp/calculadora-gasolina-etanol-react)
+
 - [Gasolina ou Etanol](https://github.com/marcelomdsp/calculadora-gasolina-etanol-react)
 
 
