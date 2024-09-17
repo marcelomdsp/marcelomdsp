@@ -7,7 +7,7 @@
 <!-- Apresentação -->
 <p>
   
-  - 👨‍💻Um prifissional em transição de carreira buscando minha primeira oportunidade de emprego.
+  - 👨‍💻Um profissional em transição de carreira buscando minha primeira oportunidade de emprego.
 
   - 🌱 Atualmente estou estudando desenvolvimento web pela Udemy.
 
