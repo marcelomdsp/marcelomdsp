@@ -14,6 +14,7 @@
   - 🔭 Meu sonho é um dia trabalhar nesta área em que tenho me apaixonado mais a cada dia.
 </p>
 
+
 <!-- Suspenso -->
 <details>
   <summary>💬 Sobre mim</summary>
@@ -26,9 +27,6 @@
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-santos-089471291/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcelo_dsp/)
-
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelomdsp&show_icons=true&theme=transparent)
 
 <!-- Portfolio -->
 ## Portfolio:
