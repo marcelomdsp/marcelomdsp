@@ -1,57 +1,63 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Olá 👋, eu sou o Marcelo!</h1></summary>
-</div>
+<h1 align="center">Olá! Eu sou o Marcelo 👋</h1>
 
-<!-- Apresentação -->
-<p>
-  
-  - 👨‍💻Um profissional em transição de carreira buscando minha primeira oportunidade de emprego.
-
-  - 🌱 Atualmente estou estudando desenvolvimento web pela Udemy.
-
-  - 🔭 Meu sonho é um dia trabalhar nesta área em que tenho me apaixonado mais a cada dia.
+<p align="center">
+Desenvolvedor em transição de carreira | Foco em Front-end e Mobile | Estudante de Engenharia de Software
 </p>
 
+---
 
-<!-- Suspenso -->
-<details>
-  <summary>💬 Sobre mim</summary>
+## 🧠 Sobre mim
 
-  - Tenho 33 anos, sou morador do Rio de Janeiro. Apesar de estar ligado a tecnologia desde a infância, apenas recentemente comecei a me interessar por desenvolvimento e, desde então, tenho procurado aprender e me aprimorar cada dia mais nessa área que, apesar de desafiadora, tem sido incrível.
+Sou desenvolvedor em formação com experiência prática em criação de interfaces modernas e responsivas utilizando:
 
-  - Como músico, amo ouvir uma boa música. Gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e séries! Creio que interesses pessoais nos ajudam a ter uma percepção mais apurada das coisas e para a resolução de problemas.
-</details>
+- 💻 HTML | CSS | JavaScript | TypeScript
+- ⚛️ React | React Native
+- 🌐 Integração com APIs REST
+- 📦 Conhecimentos básicos de Node.js
 
-<!-- Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-santos-089471291/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcelo_dsp/)
+Atualmente estou cursando Engenharia de Software e desenvolvendo projetos próprios para aprimorar minhas habilidades, tanto no front quanto no mobile.
 
-<!-- Portfolio -->
-## Portfolio:
+---
 
-- [Calculadora de IMC](https://github.com/marcelomdsp/calculo-de-imc-react)
+## 🚀 Tecnologias e Ferramentas
 
-- [Gasolina ou Etanol](https://github.com/marcelomdsp/calculadora-gasolina-etanol-react)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fff)
 
+---
 
-## 🔥 Skills
-<!-- Skills: Linguagens -->
-  <div style="flex-basis: 48%;">
-    <h3>Linguagens</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    
-  </div>
-  
-  <!-- Skills: Ferramentas & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Ferramentas & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> 
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  </div>
-  
+## 📂 Projetos em Destaque
+
+🔧 Em breve: site para uma fotógrafa (React + TailwindCSS)  
+📈 Calculadora de IMC (React + Styled Components + Context API)  
+🧾 Lista de tarefas (Java com terminal)
+
+*Veja mais repositórios abaixo ou no meu [portfólio](#)*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcelomdsp&show_icons=true&theme=react&count_private=true&hide=prs" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomdsp&layout=compact&theme=react" />
+</div>
+
+---
+
+## 📬 Contato
+
+📧 Email: marcelomdsp@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/marcelo-santos-089471291/)  
+🌐 [Portfólio](https://github.com/marcelomdsp) 
+
+---
+
+⭐ Se gostou de algum projeto, sinta-se à vontade para deixar uma estrela ou me chamar para conversar!
