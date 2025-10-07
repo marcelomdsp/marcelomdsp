@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Marcelo 👋</h1>
 
 <p align="center">
-Desenvolvedor em transição de carreira | Foco em Front-end e Mobile | Estudante de Engenharia de Software
+Desenvolvedor em transição de carreira | Foco em Front-end | Estudante de Engenharia de Software
 </p>
 
 ---
@@ -13,7 +13,6 @@ Sou desenvolvedor em formação com experiência prática em criação de interf
 - 💻 HTML | CSS | JavaScript | TypeScript
 - ⚛️ React | React Native
 - 🌐 Integração com APIs REST
-- 📦 Conhecimentos básicos de Node.js
 
 Atualmente estou cursando Engenharia de Software e desenvolvendo projetos próprios para aprimorar minhas habilidades, tanto no front quanto no mobile.
 
@@ -33,13 +32,17 @@ Atualmente estou cursando Engenharia de Software e desenvolvendo projetos própr
 
 ---
 
-## 📂 Projetos em Destaque
+📂 Projetos em Destaque
 
-🔧 Em breve: site para uma fotógrafa (React + TailwindCSS)  
-📈 Calculadora de IMC (React + Styled Components + Context API)  
-🧾 Lista de tarefas (Java com terminal)
+💼 [Portfólio Pessoal — HTML, CSS e JavaScript puro (com componentização e Vite)](https://devmarcelods.com)
 
-*Veja mais repositórios abaixo ou no meu [portfólio](#)*
+🌐 [Landing Page de Tráfego Pago — HTML, CSS e JavaScript](https://trafego.marcelods.com)
+
+📈 [Calculadora de IMC — React + Styled Components + Context API](https://calculeseuimc-msp.vercel.app/)
+
+🧾 [Lista de Tarefas — Java (execução no terminal)](https://github.com/marcelomdsp/lista-de-tarefas-java)
+
+🔧 Em breve: plataforma para fotógrafa (React + TailwindCSS)
 
 ---
 
@@ -56,7 +59,7 @@ Atualmente estou cursando Engenharia de Software e desenvolvendo projetos própr
 
 📧 Email: marcelomdsp@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/marcelo-santos-089471291/)  
-🌐 [Portfólio](https://github.com/marcelomdsp) 
+🌐 [Portfólio](https://dev.marcelods.com/) 
 
 ---
 
