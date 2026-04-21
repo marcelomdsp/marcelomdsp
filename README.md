@@ -34,6 +34,10 @@ Atualmente estou cursando Engenharia de Software e desenvolvendo projetos própr
 
 📂 Projetos em Destaque
 
+📸 [Site de Fotografia — React, NextJS, TypeScript e TaiwindCSS](https://camilla-fotografia.vercel.app/)
+
+💰 [App Mobile Fluxo Financeiro — React Native, TypeScript e EXPO](https://github.com/marcelomdsp/fluxo-financeiro)
+
 💼 [Portfólio Pessoal — HTML, CSS e JavaScript puro (com componentização e Vite)](https://devmarcelods.com)
 
 🌐 [Landing Page de Tráfego Pago — HTML, CSS e JavaScript](https://trafego.marcelods.com)
